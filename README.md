@@ -32,7 +32,7 @@ I also want to discover what policies have/can be implemented to attain a certai
 
 {You can use this area for any images you want to include}
 
-<img src ="images/happiness" width="300px">
+<img src ="images/happiness.PNG" width="300px">
 
 ## References
 
